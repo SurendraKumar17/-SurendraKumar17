@@ -1,6 +1,6 @@
 # Hi there, I'm Surendra Pandrinki 👋
 
-### 🚀 DevOps Engineer | Cloud & Infrastructure Enthusiast
+### 🚀 DevOps Engineer | Passionate about Automation, Building Scalable & Reliable Infrastructure, Kubernetes & CI/CD
 
 I'm passionate about automating infrastructure, building robust CI/CD pipelines, and deploying scalable applications on the cloud. Currently based in **Hyderabad, India** 🇮🇳
 
